@@ -7,5 +7,5 @@ const Loader = () => (
     <InfinitySpin color="grey" />
   </Stack>
 );
-
+//loader
 export default Loader;
